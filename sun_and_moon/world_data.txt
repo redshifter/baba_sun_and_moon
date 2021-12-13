@@ -1,0 +1,11 @@
+[general]
+themecount=1
+name=Sun and Moon
+author=Red Shifter
+start=1level
+firstlevel=2level
+
+[levels]
+levelid=82
+rolling_levelid=85
+
