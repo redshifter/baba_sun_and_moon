@@ -4,7 +4,7 @@ A Baba is You level pack containing around 40 levels, as well as an overarching 
 There are a variety of levels, with many of them are based around the concepts of keeping yourself in the sunlight and keeping yourself out of the moonlight. Of course, it eventually devolves into random crap. Look, just go along with it.
 
 # How to install:
-- Download the [Baba_Sun_and_Moon.zip] file. There were no version numbers because I'm lazy.
+- Download the [Baba_Sun_and_Moon.zip](Baba_Sun_and_Moon.zip) file. There were no version numbers because I'm lazy.
 - Extract it to your Baba is You Worlds folder (i.e. `C:\Program Files (x86)\Steam\steamapps\common\Baba Is You\Data\Worlds`). It should make the sun_and_moon folder automatically.
 
 # Special Thanks:
